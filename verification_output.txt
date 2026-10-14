@@ -1,0 +1,6 @@
+Verification of principal dppc2 point estimates from reported aggregate statistics
+NOTE: bootstrap confidence intervals cannot be independently regenerated from aggregate means/SDs.
+Overall questionnaire T1: calculated=1.3619; reported=1.36; rounds_to_reported=True; reported_95CI=[1.09, 1.85]
+Overall questionnaire T2: calculated=1.1692; reported=1.17; rounds_to_reported=True; reported_95CI=[0.91, 1.6]
+Performance rubric T1: calculated=1.0622; reported=1.06; rounds_to_reported=True; reported_95CI=[0.75, 1.51]
+Performance rubric T2: calculated=0.8570; reported=0.86; rounds_to_reported=True; reported_95CI=[0.55, 1.29]

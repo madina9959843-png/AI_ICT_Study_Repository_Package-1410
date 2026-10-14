@@ -1,0 +1,5 @@
+﻿outcome,timepoint,n_control,pre_mean_control,pre_sd_control,outcome_mean_control,n_experimental,pre_mean_experimental,pre_sd_experimental,outcome_mean_experimental,reported_dppc2,reported_ci_low,reported_ci_high
+Overall questionnaire,T1,30,3.02,0.47775,3.1344444444444446,30,3.002222222222222,0.34217,3.69,1.36,1.09,1.85
+Overall questionnaire,T2,30,3.02,0.47775,3.1077777777777778,30,3.002222222222222,0.34217,3.582222222222222,1.17,0.91,1.6
+Performance rubric,T1,30,12.133333333333333,3.082,13.066666666666666,30,12.433333333333334,2.315,16.3,1.06,0.75,1.51
+Performance rubric,T2,30,12.133333333333333,3.082,12.8,30,12.433333333333334,2.315,15.466666666666667,0.86,0.55,1.29
