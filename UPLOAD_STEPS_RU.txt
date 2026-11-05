@@ -1,0 +1,34 @@
+GITHUB UPDATE INSTRUCTIONS — Akerke, 5 November 2026
+
+TARGET REPOSITORY (author-reported):
+https://github.com/madina9959843-png/AI_ICT_Study_Repository_Package-1410
+
+This update has NOT been uploaded to GitHub. Upload must be performed by a repository collaborator.
+
+1. Download and EXTRACT the archive. Do not upload just the ZIP file; GitHub does not unpack it into repository files.
+2. In the GitHub repository, choose Add file > Upload files; use the repository ROOT for README.md,
+   DATA_AVAILABILITY_NOTE.md and Supplementary_Material_S1-S6_20261105.docx.
+   Confirm before overwriting README.md and the data-availability note; old versions remain in Git history.
+3. In the folder reproducibility/ (create if it does not already exist), upload all files from the archive's
+   reproducibility/ directory. Check that directory structure and names appear correctly in the commit preview.
+4. Commit with message:
+   docs: clarify paper-to-Excel provenance and reconcile bootstrap CI (2026-11-05)
+5. Open README and DATA_AVAILABILITY_NOTE in GitHub after the commit. Confirm that the main study
+   supplementary document S1-S6 and the reproducibility files can be viewed/downloaded.
+6. If the repository already has a file named Supplementary_Material.docx, do not silently overwrite its history.
+   Keep the old release identifiable or replace it with an explicit description and link to the new version.
+7. Check repository content for outdated blanket statements claiming genuine participant records are lost or
+   that synthetic demo data represent actual outcomes. Preserve older commits; explain what was superseded.
+8. DO NOT upload any individual participant-level files, names, roster, linkage key, paper scans or the original
+   Excel workbook without ethics/privacy authorization.
+9. The README states this is AUTHOR-reported source verification. It DOES NOT claim an independent statistical
+   audit was completed. Obtain that review separately as requested by Reviewer 2.
+
+RECOMMENDED REVIEWER 2 RESPONSE AFTER THE COMMIT (only after checking that the files are live):
+The repository documentation has been updated to clarify that the initial analytical workbook contained synthetic
+illustrative values used for workflow testing, whereas the authors subsequently entered and checked the empirical
+paper questionnaire responses against the original paper forms. The historical template has been retained in the
+repository history and is not represented as empirical data. The revised supplementary tables (S1–S6) and the
+reproducibility package document the author-side recalculation, including the corrected 10,000-resample paired-
+bootstrap intervals. No participant-level observations are publicly deposited, and an independent external statistical
+review is not claimed.
